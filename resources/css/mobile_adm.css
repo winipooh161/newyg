@@ -1,0 +1,42 @@
+@media only screen and (max-width: 1268px) {}
+
+@media only screen and (max-width: 1368px) {}
+
+@media only screen and (max-width: 576px) {
+    .admin-container {
+        /* Убираем боковые отступы и делаем ширину 100% */
+        padding: 15px;
+        margin: 0;
+        width: 100%;
+    }
+    .admin-card {
+        padding: 15px;
+    }
+    .admin-table-wrapper {
+        overflow-x: auto; /* Обеспечиваем горизонтальную прокрутку для таблиц */
+    }
+    .admin-nav-tabs {
+        flex-direction: column; /* Вертикальное расположение вкладок */
+    }
+    .admin-btn {
+        font-size: 1.2rem; /* увеличиваем размер иконок */
+        padding: 10px; /* уменьшаем отступы */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .stats {
+        grid-template-columns: 1fr; /* Одноколоночная сетка для статистики */
+        gap: 10px;
+    }
+    .admin-form-group label {
+        font-size: 0.9rem;
+    }
+    .admin-input, .admin-select, .admin-textarea, .custom-input {
+        font-size: 0.9rem;
+        padding: 6px;
+    }
+    .btn-text {
+        display: none; /* скрываем текст в кнопках */
+    }
+}

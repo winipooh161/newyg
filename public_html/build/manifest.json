@@ -1,0 +1,100 @@
+{
+  "resources/css/adm.css": {
+    "file": "assets/adm-ff2838dc.css",
+    "isEntry": true,
+    "src": "resources/css/adm.css"
+  },
+  "resources/css/animate.css": {
+    "file": "assets/animate-64af4c2d.css",
+    "isEntry": true,
+    "src": "resources/css/animate.css"
+  },
+  "resources/css/mobile.css": {
+    "file": "assets/mobile-5f1376ed.css",
+    "isEntry": true,
+    "src": "resources/css/mobile.css"
+  },
+  "resources/css/mobile_adm.css": {
+    "file": "assets/mobile_adm-c48d78e3.css",
+    "isEntry": true,
+    "src": "resources/css/mobile_adm.css"
+  },
+  "resources/css/style.css": {
+    "file": "assets/style-b022f02b.css",
+    "isEntry": true,
+    "src": "resources/css/style.css"
+  },
+  "resources/img/fon_prorab.webp": {
+    "file": "assets/fon_prorab-e7d4c14c.webp",
+    "src": "resources/img/fon_prorab.webp"
+  },
+  "resources/img/form-one-two.webp": {
+    "file": "assets/form-one-two-d705c171.webp",
+    "src": "resources/img/form-one-two.webp"
+  },
+  "resources/img/form-send.webp": {
+    "file": "assets/form-send-cdb9a8e0.webp",
+    "src": "resources/img/form-send.webp"
+  },
+  "resources/img/page/page_fon.webp": {
+    "file": "assets/page_fon-f363ce5f.webp",
+    "src": "resources/img/page/page_fon.webp"
+  },
+  "resources/img/services__cards/1.webp": {
+    "file": "assets/1-7787f734.webp",
+    "src": "resources/img/services__cards/1.webp"
+  },
+  "resources/img/services__cards/2.webp": {
+    "file": "assets/2-0c7ee77e.webp",
+    "src": "resources/img/services__cards/2.webp"
+  },
+  "resources/img/services__cards/3.webp": {
+    "file": "assets/3-9f6c013b.webp",
+    "src": "resources/img/services__cards/3.webp"
+  },
+  "resources/img/services__cards/4.webp": {
+    "file": "assets/4-4d9b25eb.webp",
+    "src": "resources/img/services__cards/4.webp"
+  },
+  "resources/img/services__cards/5.webp": {
+    "file": "assets/5-60d28243.webp",
+    "src": "resources/img/services__cards/5.webp"
+  },
+  "resources/img/services__cards/6.webp": {
+    "file": "assets/6-a3256dcb.webp",
+    "src": "resources/img/services__cards/6.webp"
+  },
+  "resources/img/services__cards/7.webp": {
+    "file": "assets/7-e791976e.webp",
+    "src": "resources/img/services__cards/7.webp"
+  },
+  "resources/img/services__cards/8.webp": {
+    "file": "assets/8-b0d359a8.webp",
+    "src": "resources/img/services__cards/8.webp"
+  },
+  "resources/img/tabs/tabs-1.webp": {
+    "file": "assets/tabs-1-376a987c.webp",
+    "src": "resources/img/tabs/tabs-1.webp"
+  },
+  "resources/img/tabs/tabs-2.webp": {
+    "file": "assets/tabs-2-c2fee91e.webp",
+    "src": "resources/img/tabs/tabs-2.webp"
+  },
+  "resources/img/tabs/tabs-3.webp": {
+    "file": "assets/tabs-3-85677a6d.webp",
+    "src": "resources/img/tabs/tabs-3.webp"
+  },
+  "resources/img/tabs/tabs-4.webp": {
+    "file": "assets/tabs-4-f2ba18c8.webp",
+    "src": "resources/img/tabs/tabs-4.webp"
+  },
+  "resources/img/tabs/tabs-5.webp": {
+    "file": "assets/tabs-5-bb8b5a06.webp",
+    "src": "resources/img/tabs/tabs-5.webp"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}

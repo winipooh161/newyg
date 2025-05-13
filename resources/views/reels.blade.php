@@ -1,0 +1,9 @@
+@extends('layouts.app')
+@section('content')
+    @include('layouts/header')
+    @include('video-reels/page')
+    @include('video-reels/index')
+    @include('home/colaboration')
+    @include('layouts/quiz')
+    @include('layouts/footer')
+@endsection
